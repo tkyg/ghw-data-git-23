@@ -2,17 +2,15 @@
 
 - Ritvi! changed in cli! Changed to show git pull!
 
-
 - Firos!!🙌🏻
 
 =======
-- kroenen
 
+- kroenen
 
 - Emily!
 
 - Roshan
-  
 - Thedevhassan
 
-- tnz_tkyg
+- tnz_tkyg. Changed in CLI
